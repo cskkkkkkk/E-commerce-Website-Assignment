@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0179fa2b-fb65-40b4-8771-56b4dbb1faee)用户端测试账号为：cssc 密码：12345678
+用户端测试账号为：cssc 密码：12345678
 
 ###################################################
 
