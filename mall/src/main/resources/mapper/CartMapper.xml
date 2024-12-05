@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.example.mall.mapper.CartMapper">
+
+    <!-- 查询购物车商品信息 -->
+    <select id="getCartItems" resultType="org.example.mall.returnEntity.ReturnDataOfCart">
+        SELECT
+        c.cartItemId ,            <!-- 购物车表的 cartItemId -->
+        g.goodsCoverImg ,       <!-- 商品表的 goodsCoverImg -->
+        g.goodsName,                <!-- 商品表的 goodsName -->
+        c.goodsCount,              <!-- 购物车表的 goodsCount -->
+        g.sellingPrice           <!-- 商品表的 sellingPrice -->
+        FROM cart_items c
+        JOIN goods g ON c.goodsId = g.goodsId   <!-- 根据 goodsId 连接购物车表和商品表 -->
+        WHERE c.userID = #{userID}                 <!-- 根据用户 id 查询购物车项 -->
+    </select>
+
+</mapper>

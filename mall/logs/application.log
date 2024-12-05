@@ -1,0 +1,772 @@
+2024-12-06 00:01:04 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:01:04 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:01:04 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@4dcabe24]
+2024-12-06 00:01:04 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:01:04 - Writing [org.example.mall.returnEntity.Response@7f9266c5]
+2024-12-06 00:01:04 - Completed 200 OK
+2024-12-06 00:01:24 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:01:24 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:01:24 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@2ee9b97d]
+2024-12-06 00:01:24 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:01:24 - Writing [org.example.mall.returnEntity.Response@12e79d88]
+2024-12-06 00:01:24 - Completed 200 OK
+2024-12-06 00:01:50 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:01:50 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:01:50 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@92b33cd]
+2024-12-06 00:01:50 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:01:50 - Writing [org.example.mall.returnEntity.Response@1dcb641d]
+2024-12-06 00:01:50 - Completed 200 OK
+2024-12-06 00:03:04 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:03:04 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:03:04 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@43cf340]
+2024-12-06 00:03:04 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:03:04 - Writing [org.example.mall.returnEntity.Response@575e86a0]
+2024-12-06 00:03:04 - Completed 200 OK
+2024-12-06 00:08:52 - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-06 00:08:52 - Graceful shutdown complete
+2024-12-06 00:08:52 - HikariPool-1 - Shutdown initiated...
+2024-12-06 00:08:52 - HikariPool-1 - Shutdown completed.
+2024-12-06 00:08:55 - Starting MallApplication using Java 17.0.12 with PID 13880 (C:\Users\86183\Desktop\java学习资料\mall\target\classes started by 86183 in C:\Users\86183\Desktop\java学习资料\mall)
+2024-12-06 00:08:55 - No active profile set, falling back to 1 default profile: "default"
+2024-12-06 00:08:56 - Tomcat initialized with port 30000 (http)
+2024-12-06 00:08:56 - An older version [1.3.1] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.5]
+2024-12-06 00:08:56 - Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+2024-12-06 00:08:56 - OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+2024-12-06 00:08:56 - Starting service [Tomcat]
+2024-12-06 00:08:56 - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-06 00:08:56 - Initializing Spring embedded WebApplicationContext
+2024-12-06 00:08:56 - Root WebApplicationContext: initialization completed in 1002 ms
+2024-12-06 00:08:56 - 37 mappings in 'requestMappingHandlerMapping'
+2024-12-06 00:08:56 - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2024-12-06 00:08:56 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-12-06 00:08:56 - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-12-06 00:08:56 - Tomcat started on port 30000 (http) with context path '/'
+2024-12-06 00:08:56 - Started MallApplication in 2.002 seconds (process running for 2.637)
+2024-12-06 00:09:26 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-06 00:09:26 - Initializing Servlet 'dispatcherServlet'
+2024-12-06 00:09:26 - Detected StandardServletMultipartResolver
+2024-12-06 00:09:26 - Detected AcceptHeaderLocaleResolver
+2024-12-06 00:09:26 - Detected FixedThemeResolver
+2024-12-06 00:09:26 - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@7aff0c7b
+2024-12-06 00:09:26 - Detected org.springframework.web.servlet.support.SessionFlashMapManager@215a064
+2024-12-06 00:09:26 - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2024-12-06 00:09:26 - Completed initialization in 1 ms
+2024-12-06 00:09:26 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:09:26 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:09:27 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@5e9cffb8]
+2024-12-06 00:10:34 - HikariPool-1 - Starting...
+2024-12-06 00:10:35 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@667daddb
+2024-12-06 00:10:35 - HikariPool-1 - Start completed.
+2024-12-06 00:11:47 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m10s666ms649µs).
+2024-12-06 00:15:40 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m53s578ms697µs500ns).
+2024-12-06 00:15:40 - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-06 00:15:40 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:15:40 - Writing [org.example.mall.returnEntity.Response@480aa410]
+2024-12-06 00:15:40 - Completed 200 OK
+2024-12-06 00:15:40 - Graceful shutdown complete
+2024-12-06 00:15:40 - HikariPool-1 - Shutdown initiated...
+2024-12-06 00:15:40 - HikariPool-1 - Shutdown completed.
+2024-12-06 00:15:59 - Starting MallApplication using Java 17.0.12 with PID 39296 (C:\Users\86183\Desktop\java学习资料\mall\target\classes started by 86183 in C:\Users\86183\Desktop\java学习资料\mall)
+2024-12-06 00:15:59 - No active profile set, falling back to 1 default profile: "default"
+2024-12-06 00:15:59 - Tomcat initialized with port 30000 (http)
+2024-12-06 00:15:59 - An older version [1.3.1] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.5]
+2024-12-06 00:15:59 - Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+2024-12-06 00:15:59 - OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+2024-12-06 00:15:59 - Starting service [Tomcat]
+2024-12-06 00:15:59 - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-06 00:15:59 - Initializing Spring embedded WebApplicationContext
+2024-12-06 00:15:59 - Root WebApplicationContext: initialization completed in 723 ms
+2024-12-06 00:16:00 - 37 mappings in 'requestMappingHandlerMapping'
+2024-12-06 00:16:00 - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2024-12-06 00:16:00 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-12-06 00:16:00 - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-12-06 00:16:00 - Tomcat started on port 30000 (http) with context path '/'
+2024-12-06 00:16:00 - Started MallApplication in 1.52 seconds (process running for 1.892)
+2024-12-06 00:16:14 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-06 00:16:14 - Initializing Servlet 'dispatcherServlet'
+2024-12-06 00:16:14 - Detected StandardServletMultipartResolver
+2024-12-06 00:16:14 - Detected AcceptHeaderLocaleResolver
+2024-12-06 00:16:14 - Detected FixedThemeResolver
+2024-12-06 00:16:14 - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@7e5f07ec
+2024-12-06 00:16:14 - Detected org.springframework.web.servlet.support.SessionFlashMapManager@631f5b65
+2024-12-06 00:16:14 - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2024-12-06 00:16:14 - Completed initialization in 1 ms
+2024-12-06 00:16:14 - OPTIONS "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:16:14 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:16:14 - Completed 200 OK
+2024-12-06 00:16:14 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:16:14 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:16:14 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@470874fd]
+2024-12-06 00:16:14 - HikariPool-1 - Starting...
+2024-12-06 00:16:14 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@11a37d46
+2024-12-06 00:16:14 - HikariPool-1 - Start completed.
+2024-12-06 00:16:14 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:16:14 - Writing [org.example.mall.returnEntity.Response@78e5925a]
+2024-12-06 00:16:14 - Completed 200 OK
+2024-12-06 00:16:22 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:16:22 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:16:22 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@353c35e3]
+2024-12-06 00:16:22 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:16:22 - Writing [org.example.mall.returnEntity.Response@14437534]
+2024-12-06 00:16:22 - Completed 200 OK
+2024-12-06 00:16:29 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:16:29 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:16:29 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@3bd6a3a3]
+2024-12-06 00:16:29 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:16:29 - Writing [org.example.mall.returnEntity.Response@742c5092]
+2024-12-06 00:16:29 - Completed 200 OK
+2024-12-06 00:16:31 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:16:31 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:16:31 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@56d17cce]
+2024-12-06 00:16:31 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:16:31 - Writing [org.example.mall.returnEntity.Response@5a34b22a]
+2024-12-06 00:16:31 - Completed 200 OK
+2024-12-06 00:16:37 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:16:37 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:16:37 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@f9bd1f5]
+2024-12-06 00:16:37 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:16:37 - Writing [org.example.mall.returnEntity.Response@204edb02]
+2024-12-06 00:16:37 - Completed 200 OK
+2024-12-06 00:16:46 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:16:46 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:16:46 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@3a108e25]
+2024-12-06 00:16:46 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:16:46 - Writing [org.example.mall.returnEntity.Response@70dbaba4]
+2024-12-06 00:16:46 - Completed 200 OK
+2024-12-06 00:22:21 - GET "/product/getKindList", parameters={}
+2024-12-06 00:22:21 - Mapped to org.example.mall.controller.Product#getKindList(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:22:21 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:22:21 - Writing [org.example.mall.returnEntity.Response@1396c7d3]
+2024-12-06 00:22:21 - Completed 200 OK
+2024-12-06 00:22:29 - GET "/product/getKindList", parameters={}
+2024-12-06 00:22:29 - Mapped to org.example.mall.controller.Product#getKindList(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:22:29 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:22:29 - Writing [org.example.mall.returnEntity.Response@7a2bf912]
+2024-12-06 00:22:29 - Completed 200 OK
+2024-12-06 00:22:29 - OPTIONS "/product/selectInfoByKind", parameters={}
+2024-12-06 00:22:29 - Mapped to org.example.mall.controller.Product#selectInfoByKind(List, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:22:29 - Completed 200 OK
+2024-12-06 00:22:29 - POST "/product/selectInfoByKind", parameters={}
+2024-12-06 00:22:29 - Mapped to org.example.mall.controller.Product#selectInfoByKind(List, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:22:29 - Read "application/json;charset=UTF-8" to [[]]
+2024-12-06 00:22:29 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:22:29 - Writing [org.example.mall.returnEntity.Response@7c5d1046]
+2024-12-06 00:22:29 - Completed 200 OK
+2024-12-06 00:22:37 - OPTIONS "/shop-cart/addCart", parameters={}
+2024-12-06 00:22:37 - Mapped to org.example.mall.controller.Cart#addCart(AddToCartBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:22:37 - Completed 200 OK
+2024-12-06 00:22:37 - OPTIONS "/product/detail/5", parameters={}
+2024-12-06 00:22:37 - POST "/shop-cart/addCart", parameters={}
+2024-12-06 00:22:37 - Mapped to org.example.mall.controller.Product#getDetail(int, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:22:37 - Mapped to org.example.mall.controller.Cart#addCart(AddToCartBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:22:37 - Completed 200 OK
+2024-12-06 00:22:37 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.AddToCartBody@39627143]
+2024-12-06 00:22:37 - GET "/product/detail/5", parameters={}
+2024-12-06 00:22:37 - Mapped to org.example.mall.controller.Product#getDetail(int, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:22:37 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:22:37 - Writing [org.example.mall.returnEntity.Response@17820485]
+2024-12-06 00:22:37 - Completed 200 OK
+2024-12-06 00:22:37 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:22:37 - Writing [org.example.mall.returnEntity.Response@4bcdf0e7]
+2024-12-06 00:22:37 - OPTIONS "/user/view/record", parameters={}
+2024-12-06 00:22:37 - Mapped to org.example.mall.controller.User#userViewRecord(UserViewBody, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:22:37 - Completed 200 OK
+2024-12-06 00:22:37 - Completed 200 OK
+2024-12-06 00:22:37 - POST "/user/view/record", parameters={}
+2024-12-06 00:22:37 - Mapped to org.example.mall.controller.User#userViewRecord(UserViewBody, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:22:37 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.UserViewBody@5dde8f5c]
+2024-12-06 00:22:37 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:22:37 - Writing [org.example.mall.returnEntity.Response@701df313]
+2024-12-06 00:22:37 - Completed 200 OK
+2024-12-06 00:22:39 - GET "/product/getKindList", parameters={}
+2024-12-06 00:22:39 - POST "/product/selectInfoByKind", parameters={}
+2024-12-06 00:22:39 - Mapped to org.example.mall.controller.Product#getKindList(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:22:39 - Mapped to org.example.mall.controller.Product#selectInfoByKind(List, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:22:39 - Read "application/json;charset=UTF-8" to [[]]
+2024-12-06 00:22:39 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:22:39 - Writing [org.example.mall.returnEntity.Response@4be80361]
+2024-12-06 00:22:39 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:22:39 - Completed 200 OK
+2024-12-06 00:22:39 - Writing [org.example.mall.returnEntity.Response@5ab7234a]
+2024-12-06 00:22:39 - Completed 200 OK
+2024-12-06 00:23:57 - POST "/shop-cart/addCart", parameters={}
+2024-12-06 00:23:57 - OPTIONS "/product/detail/6", parameters={}
+2024-12-06 00:23:57 - Mapped to org.example.mall.controller.Cart#addCart(AddToCartBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:23:57 - Mapped to org.example.mall.controller.Product#getDetail(int, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:23:57 - Completed 200 OK
+2024-12-06 00:23:57 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.AddToCartBody@189c5234]
+2024-12-06 00:23:57 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:23:57 - Writing [org.example.mall.returnEntity.Response@12643944]
+2024-12-06 00:23:57 - Completed 200 OK
+2024-12-06 00:23:57 - GET "/product/detail/6", parameters={}
+2024-12-06 00:23:57 - Mapped to org.example.mall.controller.Product#getDetail(int, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:23:57 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:23:57 - Writing [org.example.mall.returnEntity.Response@24551484]
+2024-12-06 00:23:57 - Completed 200 OK
+2024-12-06 00:23:57 - POST "/user/view/record", parameters={}
+2024-12-06 00:23:57 - Mapped to org.example.mall.controller.User#userViewRecord(UserViewBody, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:23:57 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.UserViewBody@73cd411a]
+2024-12-06 00:23:57 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:23:57 - Writing [org.example.mall.returnEntity.Response@4b1fd2af]
+2024-12-06 00:23:57 - Completed 200 OK
+2024-12-06 00:23:59 - POST "/product/selectInfoByKind", parameters={}
+2024-12-06 00:23:59 - OPTIONS "/product/getKindList", parameters={}
+2024-12-06 00:23:59 - Mapped to org.example.mall.controller.Product#selectInfoByKind(List, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:23:59 - Mapped to org.example.mall.controller.Product#getKindList(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:23:59 - Completed 200 OK
+2024-12-06 00:23:59 - Read "application/json;charset=UTF-8" to [[]]
+2024-12-06 00:23:59 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:23:59 - Writing [org.example.mall.returnEntity.Response@61a0db88]
+2024-12-06 00:23:59 - GET "/product/getKindList", parameters={}
+2024-12-06 00:23:59 - Mapped to org.example.mall.controller.Product#getKindList(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:23:59 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:23:59 - Writing [org.example.mall.returnEntity.Response@1ef9cea]
+2024-12-06 00:23:59 - Completed 200 OK
+2024-12-06 00:23:59 - Completed 200 OK
+2024-12-06 00:24:01 - POST "/shop-cart/addCart", parameters={}
+2024-12-06 00:24:01 - Mapped to org.example.mall.controller.Cart#addCart(AddToCartBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:24:01 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.AddToCartBody@2ca5ea6d]
+2024-12-06 00:24:01 - OPTIONS "/product/detail/2", parameters={}
+2024-12-06 00:24:01 - Mapped to org.example.mall.controller.Product#getDetail(int, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:01 - Completed 200 OK
+2024-12-06 00:24:01 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:01 - Writing [org.example.mall.returnEntity.Response@7081ccda]
+2024-12-06 00:24:01 - Completed 200 OK
+2024-12-06 00:24:01 - GET "/product/detail/2", parameters={}
+2024-12-06 00:24:01 - Mapped to org.example.mall.controller.Product#getDetail(int, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:01 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:01 - Writing [org.example.mall.returnEntity.Response@5e051bb3]
+2024-12-06 00:24:01 - Completed 200 OK
+2024-12-06 00:24:01 - POST "/user/view/record", parameters={}
+2024-12-06 00:24:01 - Mapped to org.example.mall.controller.User#userViewRecord(UserViewBody, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:01 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.UserViewBody@7a693e0f]
+2024-12-06 00:24:01 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:01 - Writing [org.example.mall.returnEntity.Response@23dd7c8]
+2024-12-06 00:24:01 - Completed 200 OK
+2024-12-06 00:24:02 - GET "/product/getKindList", parameters={}
+2024-12-06 00:24:02 - Mapped to org.example.mall.controller.Product#getKindList(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:24:02 - POST "/product/selectInfoByKind", parameters={}
+2024-12-06 00:24:02 - Mapped to org.example.mall.controller.Product#selectInfoByKind(List, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:02 - Read "application/json;charset=UTF-8" to [[]]
+2024-12-06 00:24:02 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:02 - Writing [org.example.mall.returnEntity.Response@2d914046]
+2024-12-06 00:24:02 - Completed 200 OK
+2024-12-06 00:24:02 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:02 - Writing [org.example.mall.returnEntity.Response@1e61feb0]
+2024-12-06 00:24:02 - Completed 200 OK
+2024-12-06 00:24:05 - POST "/shop-cart/addCart", parameters={}
+2024-12-06 00:24:05 - Mapped to org.example.mall.controller.Cart#addCart(AddToCartBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:24:05 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.AddToCartBody@6ff159e3]
+2024-12-06 00:24:05 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:05 - Writing [org.example.mall.returnEntity.Response@56a0585e]
+2024-12-06 00:24:05 - Completed 200 OK
+2024-12-06 00:24:05 - GET "/product/detail/2", parameters={}
+2024-12-06 00:24:05 - Mapped to org.example.mall.controller.Product#getDetail(int, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:05 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:05 - Writing [org.example.mall.returnEntity.Response@12e2bf5]
+2024-12-06 00:24:05 - Completed 200 OK
+2024-12-06 00:24:05 - POST "/user/view/record", parameters={}
+2024-12-06 00:24:05 - Mapped to org.example.mall.controller.User#userViewRecord(UserViewBody, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:05 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.UserViewBody@7424f01e]
+2024-12-06 00:24:05 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:05 - Writing [org.example.mall.returnEntity.Response@6d11a638]
+2024-12-06 00:24:05 - Completed 200 OK
+2024-12-06 00:24:06 - POST "/product/selectInfoByKind", parameters={}
+2024-12-06 00:24:06 - GET "/product/getKindList", parameters={}
+2024-12-06 00:24:06 - Mapped to org.example.mall.controller.Product#selectInfoByKind(List, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:06 - Mapped to org.example.mall.controller.Product#getKindList(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:24:06 - Read "application/json;charset=UTF-8" to [[]]
+2024-12-06 00:24:06 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:06 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:06 - Writing [org.example.mall.returnEntity.Response@51c61585]
+2024-12-06 00:24:06 - Writing [org.example.mall.returnEntity.Response@767d166b]
+2024-12-06 00:24:06 - Completed 200 OK
+2024-12-06 00:24:06 - Completed 200 OK
+2024-12-06 00:24:07 - POST "/shop-cart/addCart", parameters={}
+2024-12-06 00:24:07 - Mapped to org.example.mall.controller.Cart#addCart(AddToCartBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:24:07 - OPTIONS "/product/detail/3", parameters={}
+2024-12-06 00:24:07 - Mapped to org.example.mall.controller.Product#getDetail(int, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:07 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.AddToCartBody@13cf1cf3]
+2024-12-06 00:24:07 - Completed 200 OK
+2024-12-06 00:24:07 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:07 - Writing [org.example.mall.returnEntity.Response@2675295]
+2024-12-06 00:24:07 - Completed 200 OK
+2024-12-06 00:24:07 - GET "/product/detail/3", parameters={}
+2024-12-06 00:24:07 - Mapped to org.example.mall.controller.Product#getDetail(int, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:07 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:07 - Writing [org.example.mall.returnEntity.Response@27a97214]
+2024-12-06 00:24:07 - Completed 200 OK
+2024-12-06 00:24:07 - POST "/user/view/record", parameters={}
+2024-12-06 00:24:07 - Mapped to org.example.mall.controller.User#userViewRecord(UserViewBody, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:07 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.UserViewBody@66fb73b4]
+2024-12-06 00:24:07 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:07 - Writing [org.example.mall.returnEntity.Response@37495a23]
+2024-12-06 00:24:07 - Completed 200 OK
+2024-12-06 00:24:10 - GET "/product/getKindList", parameters={}
+2024-12-06 00:24:10 - POST "/product/selectInfoByKind", parameters={}
+2024-12-06 00:24:10 - Mapped to org.example.mall.controller.Product#selectInfoByKind(List, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:10 - Mapped to org.example.mall.controller.Product#getKindList(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:24:10 - Read "application/json;charset=UTF-8" to [[]]
+2024-12-06 00:24:10 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:10 - Writing [org.example.mall.returnEntity.Response@6c4115e]
+2024-12-06 00:24:10 - Completed 200 OK
+2024-12-06 00:24:10 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:10 - Writing [org.example.mall.returnEntity.Response@7b1b297a]
+2024-12-06 00:24:10 - Completed 200 OK
+2024-12-06 00:24:12 - POST "/shop-cart/addCart", parameters={}
+2024-12-06 00:24:12 - Mapped to org.example.mall.controller.Cart#addCart(AddToCartBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:24:12 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.AddToCartBody@3406c55c]
+2024-12-06 00:24:12 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:12 - Writing [org.example.mall.returnEntity.Response@3e59e5bf]
+2024-12-06 00:24:12 - Completed 200 OK
+2024-12-06 00:24:12 - OPTIONS "/product/detail/1", parameters={}
+2024-12-06 00:24:12 - Mapped to org.example.mall.controller.Product#getDetail(int, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:12 - Completed 200 OK
+2024-12-06 00:24:12 - GET "/product/detail/1", parameters={}
+2024-12-06 00:24:12 - Mapped to org.example.mall.controller.Product#getDetail(int, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:12 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:12 - Writing [org.example.mall.returnEntity.Response@17a291d]
+2024-12-06 00:24:12 - Completed 200 OK
+2024-12-06 00:24:12 - POST "/user/view/record", parameters={}
+2024-12-06 00:24:12 - Mapped to org.example.mall.controller.User#userViewRecord(UserViewBody, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:24:12 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.UserViewBody@3d507035]
+2024-12-06 00:24:12 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:24:12 - Writing [org.example.mall.returnEntity.Response@5df7af7f]
+2024-12-06 00:24:12 - Completed 200 OK
+2024-12-06 00:27:17 - GET "/product/getKindList", parameters={}
+2024-12-06 00:27:17 - POST "/product/selectInfoByKind", parameters={}
+2024-12-06 00:27:17 - Mapped to org.example.mall.controller.Product#getKindList(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:27:17 - Mapped to org.example.mall.controller.Product#selectInfoByKind(List, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:27:17 - Read "application/json;charset=UTF-8" to [[]]
+2024-12-06 00:27:17 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:27:17 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:27:17 - Writing [org.example.mall.returnEntity.Response@2da61894]
+2024-12-06 00:27:17 - Writing [org.example.mall.returnEntity.Response@1939fed2]
+2024-12-06 00:27:17 - Completed 200 OK
+2024-12-06 00:27:17 - Completed 200 OK
+2024-12-06 00:27:21 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:27:21 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:27:21 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@18f398b0]
+2024-12-06 00:27:21 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:27:21 - Writing [org.example.mall.returnEntity.Response@7669e57b]
+2024-12-06 00:27:21 - Completed 200 OK
+2024-12-06 00:27:22 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:27:22 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:27:22 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@50389145]
+2024-12-06 00:27:22 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:27:22 - Writing [org.example.mall.returnEntity.Response@52f47491]
+2024-12-06 00:27:22 - Completed 200 OK
+2024-12-06 00:27:27 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:27:27 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:27:27 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@4e581002]
+2024-12-06 00:27:27 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:27:27 - Writing [org.example.mall.returnEntity.Response@723edc85]
+2024-12-06 00:27:27 - Completed 200 OK
+2024-12-06 00:29:36 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:29:36 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:29:36 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@432734e4]
+2024-12-06 00:29:36 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:29:36 - Writing [org.example.mall.returnEntity.Response@2b8f3719]
+2024-12-06 00:29:36 - Completed 200 OK
+2024-12-06 00:29:36 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:29:36 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:29:36 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@4f9eab17]
+2024-12-06 00:29:36 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:29:36 - Writing [org.example.mall.returnEntity.Response@3c25b432]
+2024-12-06 00:29:36 - Completed 200 OK
+2024-12-06 00:29:41 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:29:41 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:29:41 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@7cfeb91f]
+2024-12-06 00:29:41 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:29:41 - Writing [org.example.mall.returnEntity.Response@4c67ba9e]
+2024-12-06 00:29:41 - Completed 200 OK
+2024-12-06 00:29:43 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:29:43 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:29:43 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@4ee2c26e]
+2024-12-06 00:29:43 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:29:43 - Writing [org.example.mall.returnEntity.Response@538709e3]
+2024-12-06 00:29:43 - Completed 200 OK
+2024-12-06 00:29:44 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:29:44 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:29:44 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@104dd76f]
+2024-12-06 00:29:44 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:29:44 - Writing [org.example.mall.returnEntity.Response@fb83a9d]
+2024-12-06 00:29:44 - Completed 200 OK
+2024-12-06 00:29:48 - GET "/product/getKindList", parameters={}
+2024-12-06 00:29:48 - Mapped to org.example.mall.controller.Product#getKindList(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:29:48 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:29:48 - Writing [org.example.mall.returnEntity.Response@4f5989f]
+2024-12-06 00:29:48 - Completed 200 OK
+2024-12-06 00:29:52 - OPTIONS "/shop-cart/getAllGoods", parameters={}
+2024-12-06 00:29:52 - Mapped to org.example.mall.controller.Cart#getCart(UserCartBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:29:52 - Completed 200 OK
+2024-12-06 00:29:52 - POST "/shop-cart/getAllGoods", parameters={}
+2024-12-06 00:29:52 - Mapped to org.example.mall.controller.Cart#getCart(UserCartBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:29:52 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.UserCartBody@26baff25]
+2024-12-06 00:29:52 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:29:52 - Writing [org.example.mall.returnEntity.Response@30576206]
+2024-12-06 00:29:52 - Completed 200 OK
+2024-12-06 00:30:01 - OPTIONS "/shop-cart/settle", parameters={}
+2024-12-06 00:30:01 - Mapped to org.example.mall.controller.Cart#getByCartItemIds(GetPayItems, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:30:01 - Completed 200 OK
+2024-12-06 00:30:01 - POST "/shop-cart/settle", parameters={}
+2024-12-06 00:30:01 - Mapped to org.example.mall.controller.Cart#getByCartItemIds(GetPayItems, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:30:01 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.GetPayItems@32e354a3]
+2024-12-06 00:30:01 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:01 - Writing [org.example.mall.returnEntity.Response@5714fb20]
+2024-12-06 00:30:01 - Completed 200 OK
+2024-12-06 00:30:03 - OPTIONS "/pay/successfulOrders", parameters={}
+2024-12-06 00:30:03 - Mapped to org.example.mall.controller.Pay#createOrder(CreateOrderBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:30:03 - Completed 200 OK
+2024-12-06 00:30:03 - POST "/pay/successfulOrders", parameters={}
+2024-12-06 00:30:03 - Mapped to org.example.mall.controller.Pay#createOrder(CreateOrderBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:30:03 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.CreateOrderBody@4e8f8a54]
+2024-12-06 00:30:03 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:03 - Writing [org.example.mall.returnEntity.Response@3f86b21e]
+2024-12-06 00:30:03 - Completed 200 OK
+2024-12-06 00:30:04 - OPTIONS "/pay/updateInformationOrder", parameters={}
+2024-12-06 00:30:04 - Mapped to org.example.mall.controller.Pay#updateOrder(PayOrderBody, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:30:04 - Completed 200 OK
+2024-12-06 00:30:04 - PUT "/pay/updateInformationOrder", parameters={}
+2024-12-06 00:30:04 - Mapped to org.example.mall.controller.Pay#updateOrder(PayOrderBody, HttpServletResponse, HttpServletRequest)
+2024-12-06 00:30:04 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.PayOrderBody@bae504f]
+2024-12-06 00:30:06 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:06 - Writing [org.example.mall.returnEntity.Response@2f13c00b]
+2024-12-06 00:30:06 - Completed 200 OK
+2024-12-06 00:30:06 - POST "/shop-cart/getAllGoods", parameters={}
+2024-12-06 00:30:06 - Mapped to org.example.mall.controller.Cart#getCart(UserCartBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:30:06 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.UserCartBody@5a62352a]
+2024-12-06 00:30:06 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:06 - Writing [org.example.mall.returnEntity.Response@7a2514ac]
+2024-12-06 00:30:06 - Completed 200 OK
+2024-12-06 00:30:15 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:30:15 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:30:15 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@4c807ab9]
+2024-12-06 00:30:15 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:15 - Writing [org.example.mall.returnEntity.Response@453a4a87]
+2024-12-06 00:30:15 - Completed 200 OK
+2024-12-06 00:30:16 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:30:16 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:30:16 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@5e3d91a6]
+2024-12-06 00:30:16 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:16 - Writing [org.example.mall.returnEntity.Response@3969eabb]
+2024-12-06 00:30:16 - Completed 200 OK
+2024-12-06 00:30:21 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:30:21 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:30:21 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@5a07ea85]
+2024-12-06 00:30:21 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:21 - Writing [org.example.mall.returnEntity.Response@5fb06df7]
+2024-12-06 00:30:21 - Completed 200 OK
+2024-12-06 00:30:22 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:30:22 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:30:22 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@10646fbc]
+2024-12-06 00:30:22 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:22 - Writing [org.example.mall.returnEntity.Response@66d63be7]
+2024-12-06 00:30:22 - Completed 200 OK
+2024-12-06 00:30:29 - OPTIONS "/orders?pageNumber=1&pageSize=10&orderNo=&orderStatus=-6", parameters={masked}
+2024-12-06 00:30:29 - Mapped to org.example.mall.admin_controller.AdminOrder#getOrderList(int, int, String, int)
+2024-12-06 00:30:29 - Completed 200 OK
+2024-12-06 00:30:29 - GET "/orders?pageNumber=1&pageSize=10&orderNo=&orderStatus=-6", parameters={masked}
+2024-12-06 00:30:29 - Mapped to org.example.mall.admin_controller.AdminOrder#getOrderList(int, int, String, int)
+2024-12-06 00:30:29 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:29 - Writing [org.example.mall.returnEntity.Response@4c322d9f]
+2024-12-06 00:30:29 - Completed 200 OK
+2024-12-06 00:30:31 - OPTIONS "/orders?pageNumber=2&pageSize=10&orderNo=&orderStatus=-6", parameters={masked}
+2024-12-06 00:30:31 - Mapped to org.example.mall.admin_controller.AdminOrder#getOrderList(int, int, String, int)
+2024-12-06 00:30:31 - Completed 200 OK
+2024-12-06 00:30:31 - GET "/orders?pageNumber=2&pageSize=10&orderNo=&orderStatus=-6", parameters={masked}
+2024-12-06 00:30:31 - Mapped to org.example.mall.admin_controller.AdminOrder#getOrderList(int, int, String, int)
+2024-12-06 00:30:31 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:31 - Writing [org.example.mall.returnEntity.Response@681a62c2]
+2024-12-06 00:30:31 - Completed 200 OK
+2024-12-06 00:30:38 - OPTIONS "/orders/checkDone", parameters={}
+2024-12-06 00:30:38 - Mapped to org.example.mall.admin_controller.AdminOrder#confirmOrder(OrderRequest)
+2024-12-06 00:30:38 - Completed 200 OK
+2024-12-06 00:30:38 - PUT "/orders/checkDone", parameters={}
+2024-12-06 00:30:38 - Mapped to org.example.mall.admin_controller.AdminOrder#confirmOrder(OrderRequest)
+2024-12-06 00:30:38 - Read "application/json;charset=UTF-8" to [org.example.mall.admin_Entity.OrderRequest@24ff8632]
+2024-12-06 00:30:38 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:38 - Writing [org.example.mall.returnEntity.Response@7f0e4f8a]
+2024-12-06 00:30:38 - Completed 200 OK
+2024-12-06 00:30:38 - GET "/orders?pageNumber=2&pageSize=10&orderNo=&orderStatus=-6", parameters={masked}
+2024-12-06 00:30:38 - Mapped to org.example.mall.admin_controller.AdminOrder#getOrderList(int, int, String, int)
+2024-12-06 00:30:38 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:38 - Writing [org.example.mall.returnEntity.Response@56597031]
+2024-12-06 00:30:38 - Completed 200 OK
+2024-12-06 00:30:58 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:30:58 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:30:58 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@6142c5c1]
+2024-12-06 00:30:58 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:58 - Writing [org.example.mall.returnEntity.Response@79d3a2b2]
+2024-12-06 00:30:58 - Completed 200 OK
+2024-12-06 00:30:59 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:30:59 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:30:59 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@3a06e746]
+2024-12-06 00:30:59 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:30:59 - Writing [org.example.mall.returnEntity.Response@37a800e6]
+2024-12-06 00:30:59 - Completed 200 OK
+2024-12-06 00:31:02 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:31:02 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:31:02 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@5a59eae7]
+2024-12-06 00:31:02 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:31:02 - Writing [org.example.mall.returnEntity.Response@4af4a623]
+2024-12-06 00:31:02 - Completed 200 OK
+2024-12-06 00:31:04 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:31:04 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:31:04 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@f937327]
+2024-12-06 00:31:04 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:31:04 - Writing [org.example.mall.returnEntity.Response@6ddfb6fa]
+2024-12-06 00:31:04 - Completed 200 OK
+2024-12-06 00:31:04 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:31:04 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:31:04 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@2efa7474]
+2024-12-06 00:31:04 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:31:04 - Writing [org.example.mall.returnEntity.Response@2f6aaafa]
+2024-12-06 00:31:04 - Completed 200 OK
+2024-12-06 00:31:05 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:31:05 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:31:05 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@2cbfe14f]
+2024-12-06 00:31:05 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:31:05 - Writing [org.example.mall.returnEntity.Response@1c24fc65]
+2024-12-06 00:31:05 - Completed 200 OK
+2024-12-06 00:31:07 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:31:07 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:31:07 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@19589615]
+2024-12-06 00:31:07 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:31:07 - Writing [org.example.mall.returnEntity.Response@56669222]
+2024-12-06 00:31:07 - Completed 200 OK
+2024-12-06 00:31:14 - GET "/product/getKindList", parameters={}
+2024-12-06 00:31:14 - Mapped to org.example.mall.controller.Product#getKindList(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:31:14 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:31:14 - Writing [org.example.mall.returnEntity.Response@249a3e47]
+2024-12-06 00:31:14 - Completed 200 OK
+2024-12-06 00:31:53 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:31:53 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:31:53 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@7f514f8e]
+2024-12-06 00:31:53 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:31:53 - Writing [org.example.mall.returnEntity.Response@225eb4e7]
+2024-12-06 00:31:53 - Completed 200 OK
+2024-12-06 00:31:54 - POST "/orderManage/getOrderbyStatus", parameters={}
+2024-12-06 00:31:54 - Mapped to org.example.mall.controller.OrderManage#getOrderbyStatus(OrderManageBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:31:54 - Read "application/json;charset=UTF-8" to [org.example.mall.DTO.OrderManageBody@26206ad7]
+2024-12-06 00:31:54 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:31:54 - Writing [org.example.mall.returnEntity.Response@cdbd00c]
+2024-12-06 00:31:54 - Completed 200 OK
+2024-12-06 00:34:14 - GET "/orders?pageNumber=1&pageSize=10&orderNo=&orderStatus=-6", parameters={masked}
+2024-12-06 00:34:14 - Mapped to org.example.mall.admin_controller.AdminOrder#getOrderList(int, int, String, int)
+2024-12-06 00:34:14 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:34:14 - Writing [org.example.mall.returnEntity.Response@8dd2a5d]
+2024-12-06 00:34:14 - Completed 200 OK
+2024-12-06 00:34:40 - OPTIONS "/adminUser/login", parameters={}
+2024-12-06 00:34:40 - Mapped to org.example.mall.admin_controller.Login#login(LoginBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:34:40 - Completed 200 OK
+2024-12-06 00:34:40 - POST "/adminUser/login", parameters={}
+2024-12-06 00:34:40 - Mapped to org.example.mall.admin_controller.Login#login(LoginBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:34:40 - Read "application/json;charset=UTF-8" to [org.example.mall.admin_DTO.LoginBody@699ab5a9]
+2024-12-06 00:34:40 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:34:40 - Writing [org.example.mall.returnEntity.Response@3190a5c6]
+2024-12-06 00:34:40 - Completed 200 OK
+2024-12-06 00:34:41 - OPTIONS "/adminUser/profile", parameters={}
+2024-12-06 00:34:41 - Mapped to org.example.mall.admin_controller.AdminUser#getProfile(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:34:41 - Completed 200 OK
+2024-12-06 00:34:41 - GET "/adminUser/profile", parameters={}
+2024-12-06 00:34:41 - Mapped to org.example.mall.admin_controller.AdminUser#getProfile(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:34:41 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:34:41 - Writing [org.example.mall.returnEntity.Response@34cc2099]
+2024-12-06 00:34:41 - Completed 200 OK
+2024-12-06 00:34:41 - OPTIONS "/categories?pageNumber=1&pageSize=1000", parameters={masked}
+2024-12-06 00:34:41 - Mapped to org.example.mall.admin_controller.Catagory#getAllCategories(int, int)
+2024-12-06 00:34:41 - Completed 200 OK
+2024-12-06 00:34:41 - GET "/categories?pageNumber=1&pageSize=1000", parameters={masked}
+2024-12-06 00:34:41 - Mapped to org.example.mall.admin_controller.Catagory#getAllCategories(int, int)
+2024-12-06 00:34:41 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:34:41 - Writing [org.example.mall.returnEntity.Response@60332eee]
+2024-12-06 00:34:41 - Completed 200 OK
+2024-12-06 00:35:47 - GET "/categories?pageNumber=1&pageSize=1000", parameters={masked}
+2024-12-06 00:35:47 - Mapped to org.example.mall.admin_controller.Catagory#getAllCategories(int, int)
+2024-12-06 00:35:47 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:35:47 - Writing [org.example.mall.returnEntity.Response@2339c1ca]
+2024-12-06 00:35:47 - Completed 200 OK
+2024-12-06 00:36:24 - OPTIONS "/categories/get?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:36:24 - Mapped to org.example.mall.admin_controller.Catagory#getCategory(int, int)
+2024-12-06 00:36:24 - Completed 200 OK
+2024-12-06 00:36:24 - GET "/categories/get?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:36:24 - Mapped to org.example.mall.admin_controller.Catagory#getCategory(int, int)
+2024-12-06 00:36:24 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:36:24 - Writing [org.example.mall.returnEntity.Response@3f211672]
+2024-12-06 00:36:24 - Completed 200 OK
+2024-12-06 00:37:22 - OPTIONS "/goods/list?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:37:22 - Mapped to org.example.mall.admin_controller.GoodController#getGoodsList(int, int)
+2024-12-06 00:37:22 - Completed 200 OK
+2024-12-06 00:37:22 - GET "/goods/list?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:37:22 - Mapped to org.example.mall.admin_controller.GoodController#getGoodsList(int, int)
+2024-12-06 00:37:22 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:37:22 - Writing [org.example.mall.returnEntity.Response@3a65318d]
+2024-12-06 00:37:22 - Completed 200 OK
+2024-12-06 00:38:19 - OPTIONS "/users?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:38:19 - Mapped to org.example.mall.admin_controller.UserManage#getUsers(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:38:19 - Completed 200 OK
+2024-12-06 00:38:19 - GET "/users?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:38:19 - Mapped to org.example.mall.admin_controller.UserManage#getUsers(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:38:19 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:38:19 - Writing [org.example.mall.returnEntity.Response@3bc427e]
+2024-12-06 00:38:19 - Completed 200 OK
+2024-12-06 00:38:38 - GET "/orders?pageNumber=1&pageSize=10&orderNo=&orderStatus=-6", parameters={masked}
+2024-12-06 00:38:38 - Mapped to org.example.mall.admin_controller.AdminOrder#getOrderList(int, int, String, int)
+2024-12-06 00:38:38 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:38:38 - Writing [org.example.mall.returnEntity.Response@60127988]
+2024-12-06 00:38:38 - Completed 200 OK
+2024-12-06 00:39:49 - OPTIONS "/browse_record?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:39:49 - Mapped to org.example.mall.admin_controller.BrowseRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:39:49 - Completed 200 OK
+2024-12-06 00:39:49 - GET "/browse_record?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:39:49 - Mapped to org.example.mall.admin_controller.BrowseRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:39:49 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:39:49 - Writing [org.example.mall.returnEntity.Response@6bcc82d1]
+2024-12-06 00:39:49 - Completed 200 OK
+2024-12-06 00:39:53 - OPTIONS "/browse_record?pageNumber=4&pageSize=10", parameters={masked}
+2024-12-06 00:39:53 - Mapped to org.example.mall.admin_controller.BrowseRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:39:53 - Completed 200 OK
+2024-12-06 00:39:53 - GET "/browse_record?pageNumber=4&pageSize=10", parameters={masked}
+2024-12-06 00:39:53 - Mapped to org.example.mall.admin_controller.BrowseRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:39:53 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:39:53 - Writing [org.example.mall.returnEntity.Response@1f6582e9]
+2024-12-06 00:39:53 - Completed 200 OK
+2024-12-06 00:39:54 - OPTIONS "/browse_record?pageNumber=5&pageSize=10", parameters={masked}
+2024-12-06 00:39:54 - Mapped to org.example.mall.admin_controller.BrowseRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:39:54 - Completed 200 OK
+2024-12-06 00:39:54 - GET "/browse_record?pageNumber=5&pageSize=10", parameters={masked}
+2024-12-06 00:39:54 - Mapped to org.example.mall.admin_controller.BrowseRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:39:54 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:39:54 - Writing [org.example.mall.returnEntity.Response@50feb5f9]
+2024-12-06 00:39:54 - Completed 200 OK
+2024-12-06 00:39:55 - OPTIONS "/browse_record?pageNumber=7&pageSize=10", parameters={masked}
+2024-12-06 00:39:55 - Mapped to org.example.mall.admin_controller.BrowseRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:39:55 - Completed 200 OK
+2024-12-06 00:39:55 - GET "/browse_record?pageNumber=7&pageSize=10", parameters={masked}
+2024-12-06 00:39:55 - Mapped to org.example.mall.admin_controller.BrowseRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:39:55 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:39:55 - Writing [org.example.mall.returnEntity.Response@12241e56]
+2024-12-06 00:39:55 - Completed 200 OK
+2024-12-06 00:41:06 - OPTIONS "/buy_record?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:41:06 - Mapped to org.example.mall.admin_controller.BuyRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:41:06 - Completed 200 OK
+2024-12-06 00:41:06 - GET "/buy_record?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:41:06 - Mapped to org.example.mall.admin_controller.BuyRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:41:06 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:41:06 - Writing [org.example.mall.returnEntity.Response@6c574d50]
+2024-12-06 00:41:06 - Completed 200 OK
+2024-12-06 00:41:26 - GET "/browse_record?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:41:26 - Mapped to org.example.mall.admin_controller.BrowseRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:41:26 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:41:26 - Writing [org.example.mall.returnEntity.Response@33d3a1ec]
+2024-12-06 00:41:26 - Completed 200 OK
+2024-12-06 00:41:27 - GET "/buy_record?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:41:27 - Mapped to org.example.mall.admin_controller.BuyRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:41:27 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:41:27 - Writing [org.example.mall.returnEntity.Response@10dd147a]
+2024-12-06 00:41:27 - Completed 200 OK
+2024-12-06 00:41:34 - OPTIONS "/buy_record?pageNumber=2&pageSize=10", parameters={masked}
+2024-12-06 00:41:34 - Mapped to org.example.mall.admin_controller.BuyRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:41:34 - Completed 200 OK
+2024-12-06 00:41:34 - GET "/buy_record?pageNumber=2&pageSize=10", parameters={masked}
+2024-12-06 00:41:34 - Mapped to org.example.mall.admin_controller.BuyRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:41:34 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:41:34 - Writing [org.example.mall.returnEntity.Response@444b8d2b]
+2024-12-06 00:41:34 - Completed 200 OK
+2024-12-06 00:41:55 - GET "/adminUser/profile", parameters={}
+2024-12-06 00:41:55 - Mapped to org.example.mall.admin_controller.AdminUser#getProfile(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:41:55 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:41:55 - Writing [org.example.mall.returnEntity.Response@59253bec]
+2024-12-06 00:41:55 - Completed 200 OK
+2024-12-06 00:56:33 - GET "/adminUser/profile", parameters={}
+2024-12-06 00:56:33 - Mapped to org.example.mall.admin_controller.AdminUser#getProfile(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:56:33 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:56:33 - Writing [org.example.mall.returnEntity.Response@5dc9b0a6]
+2024-12-06 00:56:33 - Completed 200 OK
+2024-12-06 00:56:33 - GET "/goods/list?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:56:33 - Mapped to org.example.mall.admin_controller.GoodController#getGoodsList(int, int)
+2024-12-06 00:56:33 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:56:33 - Writing [org.example.mall.returnEntity.Response@2bfc3eed]
+2024-12-06 00:56:33 - Completed 200 OK
+2024-12-06 00:57:05 - GET "/users?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:57:05 - Mapped to org.example.mall.admin_controller.UserManage#getUsers(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:57:05 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:05 - Writing [org.example.mall.returnEntity.Response@5c494876]
+2024-12-06 00:57:05 - Completed 200 OK
+2024-12-06 00:57:06 - GET "/orders?pageNumber=1&pageSize=10&orderNo=&orderStatus=-6", parameters={masked}
+2024-12-06 00:57:06 - Mapped to org.example.mall.admin_controller.AdminOrder#getOrderList(int, int, String, int)
+2024-12-06 00:57:06 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:06 - Writing [org.example.mall.returnEntity.Response@107c717b]
+2024-12-06 00:57:06 - Completed 200 OK
+2024-12-06 00:57:07 - GET "/browse_record?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:57:07 - Mapped to org.example.mall.admin_controller.BrowseRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:57:07 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:07 - Writing [org.example.mall.returnEntity.Response@2de82343]
+2024-12-06 00:57:07 - Completed 200 OK
+2024-12-06 00:57:07 - GET "/buy_record?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:57:07 - Mapped to org.example.mall.admin_controller.BuyRecordController#getBrowseRecordList(int, int)
+2024-12-06 00:57:07 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:07 - Writing [org.example.mall.returnEntity.Response@74fae398]
+2024-12-06 00:57:07 - Completed 200 OK
+2024-12-06 00:57:10 - GET "/categories?pageNumber=1&pageSize=1000", parameters={masked}
+2024-12-06 00:57:10 - Mapped to org.example.mall.admin_controller.Catagory#getAllCategories(int, int)
+2024-12-06 00:57:10 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:10 - Writing [org.example.mall.returnEntity.Response@d303db7]
+2024-12-06 00:57:10 - Completed 200 OK
+2024-12-06 00:57:10 - GET "/categories?pageNumber=1&pageSize=1000", parameters={masked}
+2024-12-06 00:57:10 - Mapped to org.example.mall.admin_controller.Catagory#getAllCategories(int, int)
+2024-12-06 00:57:10 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:10 - Writing [org.example.mall.returnEntity.Response@2ed53fe]
+2024-12-06 00:57:10 - Completed 200 OK
+2024-12-06 00:57:12 - POST "/adminUser/login", parameters={}
+2024-12-06 00:57:12 - Mapped to org.example.mall.admin_controller.Login#login(LoginBody, HttpServletRequest, HttpServletResponse)
+2024-12-06 00:57:12 - Read "application/json;charset=UTF-8" to [org.example.mall.admin_DTO.LoginBody@7ae42607]
+2024-12-06 00:57:12 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:12 - Writing [org.example.mall.returnEntity.Response@3c3842e7]
+2024-12-06 00:57:12 - Completed 200 OK
+2024-12-06 00:57:12 - GET "/adminUser/profile", parameters={}
+2024-12-06 00:57:12 - Mapped to org.example.mall.admin_controller.AdminUser#getProfile(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:57:12 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:12 - Writing [org.example.mall.returnEntity.Response@508fbb42]
+2024-12-06 00:57:12 - Completed 200 OK
+2024-12-06 00:57:12 - GET "/categories?pageNumber=1&pageSize=1000", parameters={masked}
+2024-12-06 00:57:12 - Mapped to org.example.mall.admin_controller.Catagory#getAllCategories(int, int)
+2024-12-06 00:57:12 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:12 - Writing [org.example.mall.returnEntity.Response@5c9ba106]
+2024-12-06 00:57:12 - Completed 200 OK
+2024-12-06 00:57:17 - GET "/categories/get?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:57:17 - Mapped to org.example.mall.admin_controller.Catagory#getCategory(int, int)
+2024-12-06 00:57:17 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:17 - Writing [org.example.mall.returnEntity.Response@6c67ed8d]
+2024-12-06 00:57:17 - Completed 200 OK
+2024-12-06 00:57:18 - GET "/goods/list?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:57:18 - Mapped to org.example.mall.admin_controller.GoodController#getGoodsList(int, int)
+2024-12-06 00:57:18 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:18 - Writing [org.example.mall.returnEntity.Response@132f6fab]
+2024-12-06 00:57:18 - Completed 200 OK
+2024-12-06 00:57:20 - GET "/categories/get?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:57:20 - Mapped to org.example.mall.admin_controller.Catagory#getCategory(int, int)
+2024-12-06 00:57:20 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:20 - Writing [org.example.mall.returnEntity.Response@4c4ab634]
+2024-12-06 00:57:20 - Completed 200 OK
+2024-12-06 00:57:21 - GET "/goods/list?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:57:21 - Mapped to org.example.mall.admin_controller.GoodController#getGoodsList(int, int)
+2024-12-06 00:57:21 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:21 - Writing [org.example.mall.returnEntity.Response@26d3282a]
+2024-12-06 00:57:21 - Completed 200 OK
+2024-12-06 00:57:21 - GET "/users?pageNumber=1&pageSize=10", parameters={masked}
+2024-12-06 00:57:21 - Mapped to org.example.mall.admin_controller.UserManage#getUsers(HttpServletRequest, HttpServletResponse)
+2024-12-06 00:57:21 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:21 - Writing [org.example.mall.returnEntity.Response@6a7e438b]
+2024-12-06 00:57:21 - Completed 200 OK
+2024-12-06 00:57:22 - GET "/orders?pageNumber=1&pageSize=10&orderNo=&orderStatus=-6", parameters={masked}
+2024-12-06 00:57:22 - Mapped to org.example.mall.admin_controller.AdminOrder#getOrderList(int, int, String, int)
+2024-12-06 00:57:22 - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json]
+2024-12-06 00:57:22 - Writing [org.example.mall.returnEntity.Response@5531fb5d]
+2024-12-06 00:57:22 - Completed 200 OK
+2024-12-06 01:09:57 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m11s996ms259µs600ns).
+2024-12-06 01:10:17 - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-06 01:10:17 - Graceful shutdown complete
+2024-12-06 01:10:17 - HikariPool-1 - Shutdown initiated...
+2024-12-06 01:10:17 - HikariPool-1 - Shutdown completed.
